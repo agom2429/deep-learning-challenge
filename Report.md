@@ -35,4 +35,5 @@ What steps did you take in your attempts to increase model performance?
 I made several adjustments to my approach, such as adding layers, removing columns, introducing more hidden nodes, and changing activation functions for each layer. 
 
 Summary
+
 In summary, the deep learning model achieved approximately 72% accuracy in addressing the classification problem. Improving the correlation between input and output is key for enhancing prediction accuracy. This can be accomplished through thorough upfront data cleanup and experimenting with different activation functions in the model, iterating until a higher accuracy is attained.
